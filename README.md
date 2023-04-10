@@ -35,19 +35,7 @@ h3 {
         <h2>Senior in Greenville, South Carolina</h2>
         
          <p>I am a senior at Bob Jones University studying Fashion Design with a minor in 
-            music</p>
-         <p>
-            I attend Cornerstone Baptist Church in Greer SC. I have a mobile-friendly 
-            sheet music <a href="https://mobilehymns.org/">website</a> and post weekly service
-            schedules for several churches.
-         </p> 
-         <p>
-            I enjoy listening to podcasts and having deep conversations.
-         </p>
-        <h3>EDUCATION</h3>
-        Computer Science<br />
-        Bob Jones University
-    </div>
+             music</p>
            
 </body>
 </html>
